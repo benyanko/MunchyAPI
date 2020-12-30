@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{1A0CA72F-F099-4EA3-BA77-943B1807A40A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MunchyAPI/Controllers/OptionsController.cs">
+    <Files>
+      <File FileName="MunchyAPI/Controllers/CategoriesController.cs" Line="1" Column="1" />
+      <File FileName="MunchyAPI/Controllers/ItemsController.cs" Line="30" Column="59" />
+      <File FileName="MunchyAPI/Controllers/OptionController.cs" Line="1" Column="1" />
+      <File FileName="MunchyAPI/Controllers/OptionsController.cs" Line="24" Column="45" />
+      <File FileName="MunchyAPI/Models/Options.cs" Line="1" Column="1" />
+      <File FileName="MunchyAPI/Models/Option.cs" Line="28" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MunchyAPI" expanded="True">
+            <Node name="MunchyAPI" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MunchyAPI PreferredExecutionTarget="/Applications/Safari.app" />
+</Properties>
