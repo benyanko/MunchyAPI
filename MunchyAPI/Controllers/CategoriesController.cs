@@ -19,8 +19,8 @@ namespace MunchyAPI.Controllers
 
         public CategoriesController(CategoryService i_categoryService, ItemService i_itemService)
         {
-            categoryService = i_categoryService;
-            itemService = i_itemService;
+            this.categoryService = i_categoryService;
+            this.itemService = i_itemService;
         }
 
         // GET: api/Options
