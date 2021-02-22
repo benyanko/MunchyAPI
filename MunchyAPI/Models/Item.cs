@@ -24,7 +24,7 @@ namespace MunchyAPI.Models
         [BsonRepresentation(BsonType.ObjectId)]
         public List<string> ListOfOptiosnId { get; set; }
          
-        public List<Options> ListOfOptions { get; set; }
+        public List<Options> ListOfOptions { get; set; } #list of option object
 
         
         [Required(ErrorMessage = "Item Category is required")]
